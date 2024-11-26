@@ -13,11 +13,13 @@ Una aplicación moderna de gestión de tiempo construida con Next.js, TypeScript
 ## Comenzar
 
 1. Instalar dependencias:
+
    ```bash
    npm install
    ```
 
 2. Ejecutar el servidor de desarrollo:
+
    ```bash
    npm run dev
    ```
@@ -40,3 +42,13 @@ Una aplicación moderna de gestión de tiempo construida con Next.js, TypeScript
 - `/lib` - Funciones de utilidad y store
 - `/types` - Definiciones de tipos TypeScript
 - `/app` - Páginas del router de Next.js
+
+# Capturas de pantalla
+
+### Vista principal
+
+![Descripción de la imagen](/public/panel-de-control-cero.png)
+
+### Pos agregado de tarea y puesto el reloj a correr
+
+![Descripción de la imagen](/public/panel-de-control-uno.png)
